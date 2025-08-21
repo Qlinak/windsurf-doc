@@ -62,7 +62,7 @@ you should refer to this document @documentlink to set up the sylte of this comp
 **NOTE**: if you need Cascade to interact with lib files in node modules, you must exclude it from .gitignore first
 ```
 #PROMPT TO CASCADE
-for every figma font, find info in @<custom_node_modules>, you need to find the corresponding mixin to be used in @<.scss file> if you cannot find such font under src/assets 
+for every figma font, you need to find the corresponding mixin to be used in @<.scss file> from @<custom_node_modules> if you cannot find such font under src/assets.
 ```
 - **Use iterative refinement**: Provide feedback and request adjustments (e.g. color, spacing, font) referencing Figma node-ids for accuracy.
 
