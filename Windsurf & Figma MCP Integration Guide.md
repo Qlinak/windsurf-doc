@@ -75,6 +75,7 @@ Referencing [Windsurf Docs: Context Awareness](https://docs.windsurf.com/context
 - **Be Specific in Prompts**: The more precise your prompt (file names, node-ids, design requirements), the better Cascade can leverage context.
 
 ---
-
-For more information, see the [official Windsurf context-awareness documentation](https://docs.windsurf.com/context-awareness/overview).
- 
+## 4. Reference
+[official Windsurf context-awareness documentation](https://docs.windsurf.com/context-awareness/overview).
+<br/>
+[official Figma MCP guide](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server)
