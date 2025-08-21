@@ -8,7 +8,7 @@ This guide provides best practices for collaborating with Cascade AI and Figma's
 
 To enable seamless Figma design-to-code workflows in Windsurf/Cascade:
 
-1. **Ensure Figma Dev Mode is enabled** for your design files. 
+1. **Ensure Figma Dev Mode is enabled** for your design files in **Figma's desktop app**. 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/35b04093-4960-46b8-a4f2-1448ce46875b" />
 
 2. **Connect the Figma MCP server**: Install the Figma MCP server from Cascade's MCP store
