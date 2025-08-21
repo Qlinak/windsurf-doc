@@ -25,7 +25,7 @@ To enable seamless Figma design-to-code workflows in Windsurf/Cascade:
 
 To achieve the best results when working with Cascade and Figma MCP:
 - **Reduce the amount of context that windsurf eats**: 
-By default, windsurf index the whole codebase for its context implication. It's better to provide concentrated version of codebase (like an architecture.md) to improve its execution speed and reduce the amount of tokens use.
+By default, windsurf indexes the whole codebase for its context implication. It's better to provide concentrated version of codebase (like an architecture.md) to improve its execution speed and reduce the amount of tokens use.
  ```
  write up a architecture.md in the project root directory. it should include 
  1. files and folder structure
