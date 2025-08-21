@@ -56,6 +56,7 @@ you should write to app/src/store/xxx to set up a state for this compoenent, you
 you should refer to this document @documentlink to set up the sylte of this component
 ... (more requirements, tell Cascade as detailed as possible as if you were to code it up yourself)
 ```
+**NOTE**: if you need Cascade to interact with lib files in node modules, you must exclude it from .gitignore first
 - **Use iterative refinement**: Provide feedback and request adjustments (e.g. color, spacing, font) referencing Figma node-ids for accuracy.
 
 ---
